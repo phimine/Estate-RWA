@@ -17,3 +17,7 @@
 
 为了创建一个与现实世界资产关联并反映其价值的链上资产，我们需要将区块链与现实世界进行连接。为实现这一目标，我们将使用 Chainlink Functions 和 Automation 服务。 Functions 将使我们能够从 Zillow API 上读取数据，而 Automation 将自动化这一调用过程实现数据每日更新。
 ![链下数据获取](/static/DataFetch.webp "链下数据获取")
+
+## 运用工厂模式发行 ERC-1155 通证
+
+![架构图](/static/Architecture.avif "架构图")
